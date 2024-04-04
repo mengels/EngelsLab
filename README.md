@@ -8,9 +8,9 @@ There will be a variety of *italic* font, **bold** font, of `highlighted` text
 Another paragraph here that includes links [Github Help](https://help-github.com).
 
 ### Header 3
-. cats
-. dogs
-. muffins
+*  cats
+*  dogs
+*  muffins
 
 Numbered list:
 1. Number period space
